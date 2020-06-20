@@ -12,7 +12,7 @@
                 <link rel ="image" href="six.jpg" type="image"/>
         </head>
         <body>
-            <img src="Class360.jpg"/>
+            <img src="Class360.png"/>
 <center>
             <h1>VirtualClass360</h1>  
         <title>VirtualClass360</title> 
@@ -21,7 +21,7 @@
                 <p> Add text  here... </p>
                 <div class ="column"></div>
             <img src="intro.jpg" align="left" />
-            <h2><img src="3.jpg"/>Virtual Reality</h2>
+            <h2><img src="small.png"/>Virtual Reality</h2>
             <p>
                 Virtual Reality (VR) is the latest in the world of Education, a three dimensional (3D) computer generated Education using a head-mounted display.
                 VR is  bringing efficient learning experience at an affordable price by providing virtually a ‘real world’  experience of the concepts of science, history and various subjects.
