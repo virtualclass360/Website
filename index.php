@@ -7,8 +7,8 @@
                 <meta charset='utf-8' />
                 <meta name='viewport' content='initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover' />
                 <meta name='keywords' content='VirtualClass360, What is Virtual Reality?, About Us,virtualclass360.com, wwww.virtuallclass360.com'/>
-                <link rel ="image" href="Class360.jpg" type="image"/>
-                <link rel ="image" href="small.jpg" type="image"/>
+                <link rel ="image" href="Class360.JPG" type="image"/>
+                <link rel ="image" href="small.JPG" type="image"/>
                 <link rel ="image" href="six.jpg" type="image"/>
         </head>
         <body>
